@@ -5,3 +5,4 @@
 - Decision tree
 - Linear regression
 - Un-supervised learning
+- Multilayer perceptron (MLP)
