@@ -1,8 +1,7 @@
-# Basic Machine learning Methods:
+# Introduction to Machine Learning methods:
 
-- Association learning
-- classification
-- Decision tree
-- Linear regression
-- Un-supervised learning
+- Classification
+- Clustering
+- Regression
 - Multilayer perceptron (MLP)
+- Association learning
